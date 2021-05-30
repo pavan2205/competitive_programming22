@@ -145,7 +145,6 @@ int main(){
     switch(choice){
         // TO CHECK IF THE NUMBER IS PRIME OR NOT
         case 1:
-        cout<<"Find if Number is prime number"<<endl;
         int i;
         for(i=2;i<n;i++){
             if(n%i==0){
